@@ -75,10 +75,10 @@ export default {
     color: inherit;
   }
   .thumb {
-    width: 250px;
+    width: 300px;
     min-height: 150px;
     flex: 0 0 auto;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 5px;
     margin-right: 15px;
   }
